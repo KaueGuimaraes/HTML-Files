@@ -1,0 +1,1 @@
+Replique as duas páginas mostradas nas representações, linkando uma com outra.
